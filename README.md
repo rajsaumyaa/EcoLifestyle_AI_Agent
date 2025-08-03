@@ -139,9 +139,11 @@ This project was built as part of the **AICTE-IBM SkillsBuild Program** and demo
 
 ---
 
-## 🙏 Thank You
-
 Built by **Saumya Raj**  
+Using IBM Cloud Properties
 Department of Computer Science  
 **Galgoti​as University**, Greater Noida  
+
+---
+The EcoLifestyle Agent promotes environmental awareness, encourages responsible consumer behavior, and supports greener communities by making sustainable living easy, accessible, and actionable for all.🌱
 
