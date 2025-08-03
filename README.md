@@ -2,6 +2,10 @@
 
 An AI-powered assistant built using IBM Watsonx tools to help individuals make informed, sustainable lifestyle choices through personalized, document-grounded support.
 
+---
+<img width="600" height="335" alt="image" src="https://github.com/user-attachments/assets/f624de50-dd2f-4fde-bdac-1b01d5372320" />
+
+
 ## 📌 Problem Statement
 
 Many people want to live sustainably but lack easy access to personalized, reliable guidance on eco-friendly habits, recycling, and green government schemes.  
