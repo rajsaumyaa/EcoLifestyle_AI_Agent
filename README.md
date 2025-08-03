@@ -137,17 +137,20 @@ You can deploy the EcoLifestyle Agent using IBM Watsonx.ai in just a few steps:
 
 
 ---
-
+## Internship Concluded
 
 This project was built as part of the **AICTE-IBM SkillsBuild Program** and demonstrates real-world use of IBM Watsonx tools in sustainability-focused applications.
+
+
+---
+
+The EcoLifestyle Agent promotes environmental awareness, encourages responsible consumer behavior, and supports greener communities by making sustainable living easy, accessible, and actionable for all.🌱
 
 ---
 
 Built by **Saumya Raj**  
-Using IBM Cloud Properties
+Using **IBM Cloud Properties**
 Department of Computer Science  
 **Galgoti​as University**, Greater Noida  
 
----
-The EcoLifestyle Agent promotes environmental awareness, encourages responsible consumer behavior, and supports greener communities by making sustainable living easy, accessible, and actionable for all.🌱
 
