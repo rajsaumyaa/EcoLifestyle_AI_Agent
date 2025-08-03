@@ -100,39 +100,34 @@ The EcoLifestyle Agent is deployed and functioning as a live AI assistant, helpi
 
 You can deploy the EcoLifestyle Agent using IBM Watsonx.ai in just a few steps:
 
-🔐 Log in to IBM Cloud Lite
-👉 https://cloud.ibm.com
+1. 🔐 Log in to IBM Cloud Lite
+    👉 https://cloud.ibm.com
 
-🧠 Launch Watsonx.ai Studio
-Access the AI development environment from your dashboard.
+2. 🧠 Launch Watsonx.ai Studio
+   Access the AI development environment from your dashboard.
 
-🤖 Create a New AI Agent
-Choose the option to create an Agentic AI project.
+3. 🤖 Create a New AI Agent
+   Choose the option to create an Agentic AI project.
 
-📄 Upload Eco-Related Documents
-Add .pdf, .txt, or .docx files containing sustainability tips, recycling info, and green schemes to a Vector Index.
+4. 📄 Upload Eco-Related Documents
+   Add .pdf, .txt, or .docx files containing sustainability tips, recycling info, and green schemes to a Vector Index.
 
-🛠️ Configure Web Search Tools (Optional)
-Integrate tools like Google, Wikipedia, or DuckDuckGo to enrich RAG responses.
+5. 🛠️ Configure Web Search Tools (Optional)
+  Integrate tools like Google, Wikipedia, or DuckDuckGo to enrich RAG responses.
 
-✍️ Set Agent Instructions and Topics
-Define clear boundaries:
+6. ✍️ Set Agent Instructions and Topics
+   Define clear boundaries:
+   Respond only to questions on sustainability, recycling, eco-products, and government schemes.
+   Politely redirect off-topic queries.
 
-Respond only to questions on sustainability, recycling, eco-products, and government schemes.
+7. 🧪 Test the Agent
+    Use the Preview Panel to simulate conversations and fine-tune behavior.
 
-Politely redirect off-topic queries.
-
-🧪 Test the Agent
-Use the Preview Panel to simulate conversations and fine-tune behavior.
-
-🚀 Deploy
-Choose from:
-
-Web snippet (embed in websites)
-
-Streamlit/Gradio front-end
-
-Custom web or chatbot UI
+8. 🚀 Deploy
+  Choose from:
+  Web snippet (embed in websites)
+  Streamlit/Gradio front-end
+  Custom web or chatbot UI
 
 
 
