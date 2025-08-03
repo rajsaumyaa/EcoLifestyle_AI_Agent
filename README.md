@@ -116,14 +116,15 @@ You can deploy the EcoLifestyle Agent using IBM Watsonx.ai in just a few steps:
   Integrate tools like Google, Wikipedia, or DuckDuckGo to enrich RAG responses.
 
 6. ✍️ Set Agent Instructions and Topics
+
    Define clear boundaries:
    Respond only to questions on sustainability, recycling, eco-products, and government schemes.
    Politely redirect off-topic queries.
 
-7. 🧪 Test the Agent
+8. 🧪 Test the Agent
     Use the Preview Panel to simulate conversations and fine-tune behavior.
 
-8. 🚀 Deploy
+9. 🚀 Deploy
   Choose from:
   Web snippet (embed in websites)
   Streamlit/Gradio front-end
